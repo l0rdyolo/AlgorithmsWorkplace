@@ -1,0 +1,14 @@
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\bin\Debug\net8.0\NQueensProblem.exe
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\bin\Debug\net8.0\NQueensProblem.deps.json
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\bin\Debug\net8.0\NQueensProblem.runtimeconfig.json
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\bin\Debug\net8.0\NQueensProblem.dll
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\bin\Debug\net8.0\NQueensProblem.pdb
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\NQueensProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\NQueensProblem.AssemblyInfoInputs.cache
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\NQueensProblem.AssemblyInfo.cs
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\NQueensProblem.csproj.CoreCompileInputs.cache
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\NQueensProblem.dll
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\refint\NQueensProblem.dll
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\NQueensProblem.pdb
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\NQueensProblem.genruntimeconfig.cache
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\ref\NQueensProblem.dll
