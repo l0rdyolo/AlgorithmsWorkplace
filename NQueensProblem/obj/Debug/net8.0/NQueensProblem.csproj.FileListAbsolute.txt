@@ -12,3 +12,4 @@ C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProbl
 C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\NQueensProblem.pdb
 C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\NQueensProblem.genruntimeconfig.cache
 C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\ref\NQueensProblem.dll
+C:\Users\maide\OneDrive\Masaüstü\Ömer\Coding\AlgorithmsWorkplace\NQueensProblem\obj\Debug\net8.0\NQueensProblem.sourcelink.json
