@@ -33,6 +33,6 @@ in main method you can modify ```firstQueenColIndex ``` to get other placements
 
 example bellow is first queen index declared ```firstQueenColIndex = 3 ```
 
-[binary example](imgs/nqueens/binaryExample.png)
-[board example](imgs/nqueens/boardExample.png) 
+![binary example](imgs/nqueens/binaryExample.png)
+![board example](imgs/nqueens/boardExample.png) 
 
