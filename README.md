@@ -6,7 +6,9 @@
 problems solved in this repository
 
 [N Queen Problem](https://github.com/l0rdyolo/AlgorithmsWorkplace/tree/main/NQueensProblem)
-[SubString]([https://github.com/l0rdyolo/AlgorithmsWorkplace/tree/main/NQueensProblem](https://github.com/l0rdyolo/AlgorithmsWorkplace/tree/main/SubString))
+
+
+[SubString](https://github.com/l0rdyolo/AlgorithmsWorkplace/tree/main/SubString)
 
   
 # screenshots and some explanation
@@ -37,8 +39,9 @@ example bellow is first queen index declared ```firstQueenColIndex = 3 ```
 ![binary example](imgs/nqueens/binaryExample.png)
 ![board example](imgs/nqueens/boardExample.png) 
 
+#
 
-[SubString]([https://github.com/l0rdyolo/AlgorithmsWorkplace/tree/main/NQueensProblem](https://github.com/l0rdyolo/AlgorithmsWorkplace/tree/main/SubString))
+[SubString](https://github.com/l0rdyolo/AlgorithmsWorkplace/tree/main/SubString)
 
 
 to test with new values u can change ```testCases``` 
