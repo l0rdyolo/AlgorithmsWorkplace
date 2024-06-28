@@ -10,6 +10,9 @@ problems solved in this repository
 
 [SubString](https://github.com/l0rdyolo/AlgorithmsWorkplace/tree/main/SubString)
 
+
+[Rotate Matrix](https://github.com/l0rdyolo/AlgorithmsWorkplace/tree/main/RotateMatrix)
+
   
 # screenshots and some explanation
 
